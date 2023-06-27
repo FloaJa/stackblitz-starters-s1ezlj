@@ -1,0 +1,22 @@
+{
+  "name": "stackblitz-starters-s1ezlj",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@types/react": "18.2.14",
+    "@types/react-dom": "18.2.6",
+    "ace-builds": "^1.23.0",
+    "react": "18.2.0",
+    "react-ace": "^10.1.0",
+    "react-dom": "18.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
